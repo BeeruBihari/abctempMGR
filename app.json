@@ -1,0 +1,16 @@
+{
+  "expo": {
+   "name": "MarketG Retailer",
+   "version": "1.0.1",
+   "icon":"./Components/CommanComp/pic/logo.png",
+   "slug": "MarketG",
+   "sdkVersion": "27.0.0",
+   "orientation":"portrait",
+   "ios": {
+     "bundleIdentifier": "com.yourcompany.yourappname"
+   },
+   "android": {
+     "package": "com.bihariLegent.MarketG_Retailer"
+   }
+  }
+}
